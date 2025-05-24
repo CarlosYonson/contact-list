@@ -5,8 +5,8 @@ authors:
   - your-name-here <your-email-here>
 
 targets:
-  contact-list:
-    main: src/contact-list.cr
+  main:
+    main: src/app.cr
 
 development_dependencies:
   ameba:
