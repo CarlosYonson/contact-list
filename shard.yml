@@ -1,0 +1,20 @@
+name: contact-list
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  contact-list:
+    main: src/contact-list.cr
+
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
+  crystalline:
+    github: elbywan/crystalline
+    branch: master
+
+crystal: '>= 1.15.1'
+
+license: MIT
