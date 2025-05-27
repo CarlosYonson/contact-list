@@ -2,6 +2,12 @@
 
 Gestor de contactos desarrollado en Crystal que te permite guardar y organizar tu lista de contactos.
 
+## 🧑🏿‍🏫 Integrantes del proyecto:
+- Chan Torres Giuseph Alexis
+- De Martino Ricci Cristian
+- Manzanilla Martin Brian Eumir
+- Zapata Chan Adrian Israel
+
 ## 💻 Acerca del lenguaje y ambiente de desarrollo
 
 ### Lenguaje Crystal
@@ -40,7 +46,7 @@ Para escribir y ejecutar programas en Crystal:
    ```
 3. Compila el proyecto:
    ```bash
-   crystal build
+   crystal build src/app.cr
    ```
 
 ## 🚀 Uso
