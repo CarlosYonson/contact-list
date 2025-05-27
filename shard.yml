@@ -2,18 +2,14 @@ name: contact-list
 version: 0.1.0
 
 authors:
-  - your-name-here <your-email-here>
+  - Chan Torres Giuseph Alexis
+  - De Martino Ricci Cristian
+  - Manzanilla Martin Brian Eumir
+  - Zapata Chan Adrian Israel
 
 targets:
   main:
     main: src/app.cr
-
-development_dependencies:
-  ameba:
-    github: crystal-ameba/ameba
-  crystalline:
-    github: elbywan/crystalline
-    branch: master
 
 crystal: '>= 1.15.1'
 
